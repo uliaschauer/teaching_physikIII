@@ -1,4 +1,5 @@
 appmode
+numpy
 pyscf==1.7.1
 matplotlib
 ipympl
